@@ -1,5 +1,5 @@
 import React from 'react';
-import ArticleList from "./ArticleList/ArticleList";
+import ArticleList from "./ArticleList/ArticleList.jsx";
 import articles from "./data/articles.json";
 
 function App() {

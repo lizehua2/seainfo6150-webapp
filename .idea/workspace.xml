@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a9735bd3-eae1-4ad0-82ac-f0064dcac194" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Wy7apZCNHUykkOOers5fhtCCyM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9735bd3-eae1-4ad0-82ac-f0064dcac194" name="Default Changelist" comment="" />
+      <created>1580110046044</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580110046044</updated>
+      <workItem from="1580110051653" duration="2012000" />
+      <workItem from="1580112163857" duration="18909000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="200" y="119" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580110235089">
+      <screen x="0" y="23" width="1536" height="869" />
+    </state>
+    <state x="200" y="119" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1536.869@0.23.1536.869" timestamp="1580110235089" />
+    <state width="1358" height="228" key="GridCell.Tab.0.bottom" timestamp="1580112114521">
+      <screen x="0" y="23" width="1536" height="869" />
+    </state>
+    <state width="1358" height="228" key="GridCell.Tab.0.bottom/0.23.1536.869@0.23.1536.869" timestamp="1580112114521" />
+    <state width="1358" height="228" key="GridCell.Tab.0.center" timestamp="1580112114520">
+      <screen x="0" y="23" width="1536" height="869" />
+    </state>
+    <state width="1358" height="228" key="GridCell.Tab.0.center/0.23.1536.869@0.23.1536.869" timestamp="1580112114520" />
+    <state width="1358" height="228" key="GridCell.Tab.0.left" timestamp="1580112114520">
+      <screen x="0" y="23" width="1536" height="869" />
+    </state>
+    <state width="1358" height="228" key="GridCell.Tab.0.left/0.23.1536.869@0.23.1536.869" timestamp="1580112114520" />
+    <state width="1358" height="228" key="GridCell.Tab.0.right" timestamp="1580112114520">
+      <screen x="0" y="23" width="1536" height="869" />
+    </state>
+    <state width="1358" height="228" key="GridCell.Tab.0.right/0.23.1536.869@0.23.1536.869" timestamp="1580112114520" />
+    <state x="513" y="290" key="com.intellij.ide.util.TipDialog" timestamp="1580112166335">
+      <screen x="0" y="23" width="1536" height="869" />
+    </state>
+    <state x="513" y="290" key="com.intellij.ide.util.TipDialog/0.23.1536.869@0.23.1536.869" timestamp="1580112166335" />
+  </component>
+</project>
