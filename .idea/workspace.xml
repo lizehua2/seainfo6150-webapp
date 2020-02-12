@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a9735bd3-eae1-4ad0-82ac-f0064dcac194" name="Default Changelist" comment="" />
+    <list default="true" id="a9735bd3-eae1-4ad0-82ac-f0064dcac194" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ArticleList/SlugButton.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArticleList/ArticleListItem.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArticleList/ArticleListItem.jsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,11 +24,19 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/ArticleList" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/ArticleList" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/ArticleList" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -38,6 +50,9 @@
       <updated>1580110046044</updated>
       <workItem from="1580110051653" duration="2012000" />
       <workItem from="1580112163857" duration="18909000" />
+      <workItem from="1581456871203" duration="912000" />
+      <workItem from="1581458034040" duration="9000" />
+      <workItem from="1581458099376" duration="369000" />
     </task>
     <servers />
   </component>
@@ -65,9 +80,10 @@
       <screen x="0" y="23" width="1536" height="869" />
     </state>
     <state width="1358" height="228" key="GridCell.Tab.0.right/0.23.1536.869@0.23.1536.869" timestamp="1580112114520" />
-    <state x="513" y="290" key="com.intellij.ide.util.TipDialog" timestamp="1580112166335">
-      <screen x="0" y="23" width="1536" height="869" />
+    <state x="599" y="337" key="com.intellij.ide.util.TipDialog" timestamp="1581458033857">
+      <screen x="0" y="23" width="1792" height="1022" />
     </state>
+    <state x="599" y="337" key="com.intellij.ide.util.TipDialog/0.-1057.1920.1057/0.23.1792.1022@0.23.1792.1022" timestamp="1581458033857" />
     <state x="513" y="290" key="com.intellij.ide.util.TipDialog/0.23.1536.869@0.23.1536.869" timestamp="1580112166335" />
   </component>
 </project>

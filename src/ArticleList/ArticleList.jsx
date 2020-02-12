@@ -1,18 +1,14 @@
 import React from "react";
 import PropTypes from 'prop-types';
-import Button from './ArticleListItem';
+import ArticleListItem from './ArticleListItem';
+import styles from './ArticleList.module.css'
 
-const ArticleList = props => {
+const ArticleList = prop => {
   return (
-    <ul>
-      {props.articles.map(article => (
+    <ul className={styles.body}>
+      {prop.articles.map(article => (
           <li key={article.slug}>
-              <h2>{article.title}</h2>
-              <p>{article.shortText}</p>
-              <time dateTime>
-              {article.pubDate}
-              <Button info={article} />
-              </time>
+             <ArticleListItem article={article}></ArticleListItem>
           </li>
       ))}
     </ul>
