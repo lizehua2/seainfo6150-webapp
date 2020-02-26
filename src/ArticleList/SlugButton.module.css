@@ -1,10 +1,38 @@
 .button {
     background: #c00;
-    float: right;
-    border: none;
-    border-radius: 8px;
+    border: 1px solid white;
+    border-radius: 16px;
     color: white;
-    padding: 12px 60px;
+    height: 2em;
+    width: 100%;
     text-align: center;
     font-size: 16px;
+    margin-top: 1em; 
+    margin-bottom: 1em;
+    
+   
+    
+}
+@media (min-width: 400px) {
+    .button {
+        border-radius: 4px;
+        height: 2em;
+        font-size: 8px;
+    }
+}
+
+@media (min-width: 800px) {
+    .button {
+        border-radius: 8px;
+        height: 2.2em;
+        font-size: 16px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .button {
+        border-radius: 10px;
+        height: 3em;
+        font-size: 32px;
+    }
 }
